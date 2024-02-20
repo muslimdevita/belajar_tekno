@@ -1,0 +1,11 @@
+Belajar Tekno
+Fitur yang akan digunakan :
+*) Back End
+  1. Java Bahasa Pemograman Android
+  2. Dart Bahasa Pemograman Web and Android
+  3. php 8.3 Bahasa Pemograman Web
+*) Front End
+  1. Boostrap 5
+  2. Javascript 
+  3. Html5
+
