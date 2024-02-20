@@ -1,0 +1,13 @@
+BT ( Belajar Teknologi )
+
+Program pembelajaran yang akan di sediakan di BT :
+
+*) FRONT END
+   1. HTML (Hypertext Markup Language)
+   2. CSS (Cascading Style Sheets)
+   3. JavaScript
+
+*) BACK END
+  1. Server (linux dan Windows)
+  2. Database (sql,oracel,dan Django)
+
