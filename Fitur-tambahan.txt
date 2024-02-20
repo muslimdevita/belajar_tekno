@@ -4,6 +4,9 @@ Fitur yang akan digunakan :
   1. Java Bahasa Pemograman Android
   2. Dart Bahasa Pemograman Web and Android
   3. php 8.3 Bahasa Pemograman Web
+     - codeigniter
+     - laravel
+     - vue
 *) Front End
   1. Boostrap 5
   2. Javascript 
