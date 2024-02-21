@@ -6,6 +6,8 @@ Program pembelajaran yang akan di sediakan di BT :
    1. HTML (Hypertext Markup Language)
    2. CSS (Cascading Style Sheets)
    3. JavaScript
+   4. jquery
+   5. Dom
 
 *) BACK END
   1. Server (linux dan Windows)
